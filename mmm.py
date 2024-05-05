@@ -32,9 +32,9 @@ def create_navbar():
         </style>
         
         <div class="navbar">
-            <a href="http://127.0.0.1:5501/index.html">Home</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
+            <a href="https://sigmastat.org/">Home</a>
+            <a href="https://sigmastat.org/about/about-us.html">About</a>
+            <a href="https://sigmastat.org/contact.html">Contact</a>
         </div>
         """,
         unsafe_allow_html=True,
