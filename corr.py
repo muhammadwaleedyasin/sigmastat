@@ -36,7 +36,6 @@ def create_navbar():
             <a href="https://sigmastat.org/about/about-us.html">About</a>
             <a href="https://sigmastat.org/contact.html">Contact</a>
         </div>
-        </div>
         """,
         unsafe_allow_html=True,
     )
